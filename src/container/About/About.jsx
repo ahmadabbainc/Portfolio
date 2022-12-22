@@ -25,7 +25,7 @@ const About = () => {
         Serving
         <span> 1,000,000+ Users </span>
         <br />
-        With React And Mordern Technologies
+        With React And Modern Technologies
       </h2>
 
       <div className="app__profiles">
