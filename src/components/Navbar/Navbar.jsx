@@ -6,7 +6,7 @@ import { images } from "../../constants";
 import Button from "@mui/material/Button";
 
 import "./Navbar.scss";
-import Resume from "../../assets/Ahmad-Inc.pdf";
+import Resume from "../../assets/Ahmad's Resume.pdf";
 
 const Navbar = () => {
   const [toggle, setToggle] = useState(false);
