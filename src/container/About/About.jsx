@@ -17,15 +17,13 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        I Help
-        <span> Companies </span>
-        To Build Complex
+        Empower your business with
+        <span> scalable and reliable systems </span>
+        that deliver results and drive growth
         <br />
-        <span> Web Applications </span>
-        Serving
-        <span> 1,000,000+ Users </span>
-        <br />
-        With React And Modern Technologies
+        <span> Let me bring my expertise to the table </span>
+        and help
+        <span> your company thrive</span>
       </h2>
 
       <div className="app__profiles">
