@@ -1,5 +1,5 @@
 import React from "react";
-import { BsTwitter, BsInstagram, BsGithub } from "react-icons/bs";
+import { FaXTwitter, BsInstagram, BsGithub } from "react-icons/bs";
 import { FaFacebookF, FaLinkedinIn } from "react-icons/fa";
 
 const SocialMedia = () => {
@@ -22,7 +22,7 @@ const SocialMedia = () => {
       </div>
       <div>
         <a href="https://mobile.twitter.com/Ahmad_Inc_">
-          <BsTwitter />
+          <FaXTwitter />
         </a>
       </div>
       <div>
